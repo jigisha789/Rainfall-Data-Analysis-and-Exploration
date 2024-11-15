@@ -1,0 +1,32 @@
+Notes for Daily Rainfall Climate Data in ABC City between 2013 and 2023
+____________________________________________________________________
+
+** City Details **
+
+City name: ABC
+
+** Data File Format **
+
+The data file format is shown below.
+
+Column, 	Explanation
+--------------------------------------------------------------------
+ 1		Year
+ 2		Month
+ 3		Day
+ 4		Daily rainfall (Millimetres)
+
+** Important notes **
+
+1) COPYRIGHT
+
+The copyright for any data is held in the Commonwealth of Australia and the purchaser
+shall give acknowledgement of the source in reference to the data.  Apart from dealings
+under the copyright Act, 1968, the purchaser shall not reproduce, modify or supply
+(by sale or otherwise) these data without written permission.  
+
+2) LIABILITY
+
+While every effort is made to supply the best data available this may not be possible
+in all cases.  We do not give any warranty, nor accept any liability in relation to the
+information given, except that liability (if any), that is required by law.
